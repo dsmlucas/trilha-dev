@@ -227,7 +227,7 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 ---
 
-## ⚛️ Etapa 7: Front-end com Framework (React ou Vue)
+## ⚛️ Etapa 7: Front-end com Framework (React)
 
 **Carga horária:** 1,5 mês (45h)
 
@@ -336,13 +336,14 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 ## 📘 Resumo da trilha
 
-| Etapa                          | Duração | Carga Horária |
-| ------------------------------ | ------- | ------------- |
-| Fundamentos de Lógica          | 1 mês   | 30h           |
-| Programação com Linguagem Real | 1 mês   | 30h           |
-| Web com HTML, CSS, JS          | 1,5 mês | 45h           |
-| Git e Projeto Consolidado      | 0,5 mês | 15h           |
-| Algoritmos Intermediários      | 1 mês   | 30h           |
-| Banco de Dados (SQL)           | 1 mês   | 30h           |
-| Front-end com Framework        | 1,5 mês | 45h           |
-| Backend com API REST           | 1 mês   | 30h           |
+| Etapa                                                     | Duração   | Carga Horária | Data de Conclusão |
+| --------------------------------------------------------- | --------- | ------------- | :---------------: |
+| Etapa 1 - Fundamentos da Lógica e Algoritmos              | 1 mês     | 30h           |         -         |
+| Etapa 2 - Programação com Linguagem Real                  | 1 mês     | 30h           |         -         |
+| Etapa 3 - Web com HTML, CSS, JS                           | 1,5 mês   | 45h           |         -         |
+| Etapa 4 - Git e Versionamento                             | 0,5 mês   | 15h           |         -         |
+| Etapa 5 - Estruturas de Dados e Algoritmos Intermediários | 1 mês     | 30h           |         -         |
+| Etapa 6 - Banco de Dados Relacional (SQL)                 | 1 mês     | 30h           |         -         |
+| Etapa 7 - Front-end com Framework                         | 1,5 mês   | 45h           |         -         |
+| Etapa 8 - Backend com API REST                            | 1 mês     | 30h           |         -         |
+| Etapa 9 - Projeto Final e Portfólio                       | 1–2 meses | 60h           |         -         |
