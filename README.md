@@ -17,11 +17,11 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 ### Capítulo 1: Introdução a Algoritmos e Variáveis
 
-- [ ] **Aula 1.1:** O que é um algoritmo? Pseudocódigo e fluxogramas
-- [ ] **Aula 1.2:** Variáveis e tipos de dados (inteiros, strings, booleanos)
-- [ ] **Aula 1.3:** Operadores matemáticos e lógicos
-- [ ] **Aula 1.4:** Entrada e saída de dados
-- [ ] **Aula 1.5:** Exercícios no papel e fluxogramas
+- [x] **Aula 1.1:** O que é um algoritmo? Pseudocódigo e fluxogramas
+- [ ] **Aula 1.2:** Fluxogramas usando Mermaid
+- [ ] **Aula 1.3:** Variáveis e tipos de dados (inteiros, strings, booleanos)
+- [ ] **Aula 1.4:** Operadores matemáticos e lógicos
+- [ ] **Aula 1.5:** Entrada e saída de dados
 
 ### Capítulo 2: Condicionais e Laços
 
