@@ -6,323 +6,328 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 ---
 
-## 🧭 Fase 1: Fundamentos da Lógica e Algoritmos
+## 🧭 Etapa 1: Fundamentos da Lógica e Algoritmos
 
 **Carga horária:** 1 mês (30h)
 
-### Semana 1: Introdução a Algoritmos e Variáveis
+**Objetivos:**
 
-- **Seg:** O que é um algoritmo? Pseudocódigo e fluxogramas
-- **Ter:** Variáveis e tipos de dados (inteiros, strings, booleanos)
-- **Qua:** Operadores matemáticos e lógicos
-- **Qui:** Entrada e saída de dados
-- **Sex:** Exercícios no papel e beecrowd (iniciante)
+- Desenvolver o raciocínio lógico e noções de algoritmo
+- Resolver problemas simples com papel, lápis e pseudocódigo
 
-### Semana 2: Condicionais e Laços
+### Capítulo 1: Introdução a Algoritmos e Variáveis
 
-- **Seg:** Condicionais: if, else, else if
-- **Ter:** Exercícios com condicionais (idade, par/ímpar, nota)
-- **Qua:** Laços: while e for
-- **Qui:** Exercícios com laços (tabuada, contagem)
-- **Sex:** Desafio prático: tabuada com entrada do usuário
+- [ ] **Aula 1.1:** O que é um algoritmo? Pseudocódigo e fluxogramas
+- [ ] **Aula 1.2:** Variáveis e tipos de dados (inteiros, strings, booleanos)
+- [ ] **Aula 1.3:** Operadores matemáticos e lógicos
+- [ ] **Aula 1.4:** Entrada e saída de dados
+- [ ] **Aula 1.5:** Exercícios no papel e fluxogramas
 
-### Semana 3: Vetores, Matrizes e Funções
+### Capítulo 2: Condicionais e Laços
 
-- **Seg:** Vetores (arrays) - criação e acesso
-- **Ter:** Matrizes (arrays 2D) - introdução
-- **Qua:** Funções - criação, chamada e parâmetros
-- **Qui:** Exercícios com vetores e funções combinadas
-- **Sex:** Desafio: calculadora com operações em funções
+- [ ] **Aula 2.1:** Condicionais: if, else, else if
+- [ ] **Aula 2.2:** Exercícios com condicionais (idade, par/ímpar, nota)
+- [ ] **Aula 2.3:** Laços: while e for
+- [ ] **Aula 2.4:** Exercícios com laços (tabuada, contagem)
+- [ ] **Aula 2.5:** Desafio prático: tabuada com entrada do usuário
 
-### Semana 4: Projeto e Revisão
+### Capítulo 3: Vetores, Matrizes e Funções
 
-- **Seg:** Revisão geral e quiz oral
-- **Ter:** Projeto: sistema de notas escolares com funções e vetores
-- **Qua:** Finalização e testes do projeto
-- **Qui:** Introdução ao uso do VS Code e extensões básicas
-- **Sex:** Avaliação final da fase + checklist de aprendizado
+- [ ] **Aula 3.1:** Vetores (arrays) - criação e acesso
+- [ ] **Aula 3.2:** Matrizes (arrays 2D) - introdução
+- [ ] **Aula 3.3:** Funções - criação, chamada e parâmetros
+- [ ] **Aula 3.4:** Exercícios com vetores e funções combinadas
+- [ ] **Aula 3.5:** Desafio: calculadora com operações em funções
+
+### Capítulo 4: Projeto e Revisão
+
+- [ ] **Aula 4.1:** Revisão geral e quiz oral
+- [ ] **Aula 4.2:** Projeto: sistema de notas escolares com funções e vetores
+- [ ] **Aula 4.3:** Finalização e testes do projeto
+- [ ] **Aula 4.4:** Introdução ao uso do VS Code e extensões básicas
+- [ ] **Aula 4.5:** Avaliação final da Etapa + checklist de aprendizado
 
 ---
 
-## 💻 Fase 2: Programação com Linguagem Real (Python ou JavaScript)
+## 💻 Etapa 2: Programação com Linguagem Real (Python ou JavaScript)
 
 **Carga horária:** 1 mês (30h)
 
-### Semana 1: Introdução à Linguagem
+### Capítulo 1: Introdução à Linguagem
 
-- **Seg:** Instalação, VS Code, Hello World
-- **Ter:** Tipos primitivos e variáveis
-- **Qua:** Condicionais
-- **Qui:** Laços de repetição (for, while)
-- **Sex:** Exercícios de lógica com a linguagem
+- [ ] **Aula 1.1:** Instalação, VS Code, Hello World
+- [ ] **Aula 1.2:** Tipos primitivos e variáveis
+- [ ] **Aula 1.3:** Condicionais
+- [ ] **Aula 1.4:** Laços de repetição (for, while)
+- [ ] **Aula 1.5:** Exercícios de lógica com a linguagem
 
-### Semana 2: Funções e Módulos
+### Capítulo 2: Funções e Módulos
 
-- **Seg:** Definição de funções
-- **Ter:** Argumentos, retorno e escopo
-- **Qua:** Módulos nativos (ex: Math)
-- **Qui:** Entrada e saída no terminal
-- **Sex:** Projeto: jogo de adivinhação
+- [ ] **Aula 2.1:** Definição de funções
+- [ ] **Aula 2.2:** Argumentos, retorno e escopo
+- [ ] **Aula 2.3:** Módulos nativos (ex: Math)
+- [ ] **Aula 2.4:** Entrada e saída no terminal
+- [ ] **Aula 2.5:** Projeto: jogo de adivinhação
 
-### Semana 3: Listas e Dicionários
+### Capítulo 3: Listas e Dicionários
 
-- **Seg:** Listas: criação, leitura, iteração
-- **Ter:** Métodos de listas
-- **Qua:** Dicionários: chave-valor
-- **Qui:** Desafio: simulação de cadastro de alunos
-- **Sex:** Projeto: gerador de tabuada com menu interativo
+- [ ] **Aula 3.1:** Listas: criação, leitura, iteração
+- [ ] **Aula 3.2:** Métodos de listas
+- [ ] **Aula 3.3:** Dicionários: chave-valor
+- [ ] **Aula 3.4:** Desafio: simulação de cadastro de alunos
+- [ ] **Aula 3.5:** Projeto: gerador de tabuada com menu interativo
 
-### Semana 4: Consolidando
+### Capítulo 4: Consolidando
 
-- **Seg:** Projeto final: app de notas com múltiplos alunos
-- **Ter:** Organização do projeto em arquivos
-- **Qua:** Testes manuais e correções
-- **Qui:** Introdução ao Git local
-- **Sex:** Revisão geral + checkpoint
+- [ ] **Aula 4.1:** Projeto final: app de notas com múltiplos alunos
+- [ ] **Aula 4.2:** Organização do projeto em arquivos
+- [ ] **Aula 4.3:** Testes manuais e correções
+- [ ] **Aula 4.4:** Introdução ao Git local
+- [ ] **Aula 4.5:** Revisão geral + checkpoint
 
 ---
 
-## 🌐 Fase 3: Web com HTML, CSS e JavaScript
+## 🌐 Etapa 3: Web com HTML, CSS e JavaScript
 
 **Carga horária:** 1,5 mês (45h)
 
-### Semana 1: Fundamentos do HTML
+### Capítulo 1: Fundamentos do HTML
 
-- **Seg:** Estrutura básica do HTML5
-- **Ter:** Tags semânticas e hierarquia
-- **Qua:** Listas, links e imagens
-- **Qui:** Formulários e campos básicos
-- **Sex:** Projeto: página de perfil pessoal
+- [ ] **Aula 1.1:** Estrutura básica do HTML5
+- [ ] **Aula 1.2:** Tags semânticas e hierarquia
+- [ ] **Aula 1.3:** Listas, links e imagens
+- [ ] **Aula 1.4:** Formulários e campos básicos
+- [ ] **Aula 1.5:** Projeto: página de perfil pessoal
 
-### Semana 2: Introdução ao CSS
+### Capítulo 2: Introdução ao CSS
 
-- **Seg:** Seletores, classes e IDs
-- **Ter:** Cores, fontes e espaçamentos
-- **Qua:** Box model e posicionamento
-- **Qui:** Flexbox
-- **Sex:** Projeto: currículo com layout responsivo
+- [ ] **Aula 2.1:** Seletores, classes e IDs
+- [ ] **Aula 2.2:** Cores, fontes e espaçamentos
+- [ ] **Aula 2.3:** Box model e posicionamento
+- [ ] **Aula 2.4:** Flexbox
+- [ ] **Aula 2.5:** Projeto: currículo com layout responsivo
 
-### Semana 3: JavaScript no Navegador
+### Capítulo 3: JavaScript no Navegador
 
-- **Seg:** Introdução ao DOM
-- **Ter:** Eventos e manipulação básica
-- **Qua:** Condições e loops no JS do navegador
-- **Qui:** Interatividade com forms
-- **Sex:** Desafio: calculadora interativa
+- [ ] **Aula 3.1:** Introdução ao DOM
+- [ ] **Aula 3.2:** Eventos e manipulação básica
+- [ ] **Aula 3.3:** Condições e loops no JS do navegador
+- [ ] **Aula 3.4:** Interatividade com forms
+- [ ] **Aula 3.5:** Desafio: calculadora interativa
 
-### Semana 4: Projeto To-do List
+### Capítulo 4: Projeto To-do List
 
-- **Seg:** Estrutura inicial HTML/CSS
-- **Ter:** Adição e remoção de tarefas
-- **Qua:** Marcar como concluída
-- **Qui:** Salvar no localStorage
-- **Sex:** Refatoração e revisão do projeto
+- [ ] **Aula 4.1:** Estrutura inicial HTML/CSS
+- [ ] **Aula 4.2:** Adição e remoção de tarefas
+- [ ] **Aula 4.3:** Marcar como concluída
+- [ ] **Aula 4.4:** Salvar no localStorage
+- [ ] **Aula 4.5:** Refatoração e revisão do projeto
 
-### Semana 5 (meia semana): Revisão e Consolidação
+### Capítulo 5 (meia semana): Revisão e Consolidação
 
-- **Seg:** Apresentação do projeto final
-- **Ter:** Correções e melhorias com mentor
-- **Qua:** Upload no GitHub com README
+- [ ] **Aula 5.1:** Apresentação do projeto final
+- [ ] **Aula 5.2:** Correções e melhorias com mentor
+- [ ] **Aula 5.3:** Upload no GitHub com README
 
 ---
 
-## 🧰 Fase 4: Git e Versionamento
+## 🧰 Etapa 4: Git e Versionamento
 
 **Carga horária:** 0,5 mês (15h)
 
-### Semana 1: Git Básico e GitHub
+### Capítulo 1: Git Básico e GitHub
 
-- **Seg:** Conceitos de versionamento e Git init/commit
-- **Ter:** Branches e merge
-- **Qua:** Push, pull e repositórios remotos
-- **Qui:** GitHub Pages e README
-- **Sex:** Desafio: subir 1 projeto antigo com versionamento adequado
+- [ ] **Aula 1.1:** Conceitos de versionamento e Git init/commit
+- [ ] **Aula 1.2:** Branches e merge
+- [ ] **Aula 1.3:** Push, pull e repositórios remotos
+- [ ] **Aula 1.4:** GitHub Pages e README
+- [ ] **Aula 1.5:** Desafio: subir 1 projeto antigo com versionamento adequado
 
-### Semana 2 (meia semana): Consolidação e boas práticas
+### Capítulo 2 (meia semana): Consolidação e boas práticas
 
-- **Seg:** Markdown e documentação
-- **Ter:** Fluxo de trabalho (clone, PR, organização)
-- **Qua:** Revisão geral e checklist
+- [ ] **Aula 2.1:** Markdown e documentação
+- [ ] **Aula 2.2:** Fluxo de trabalho (clone, PR, organização)
+- [ ] **Aula 2.3:** Revisão geral e checklist
 
 ---
 
-## 🧠 Fase 5: Estruturas de Dados e Algoritmos Intermediários
+## 🧠 Etapa 5: Estruturas de Dados e Algoritmos Intermediários
 
 **Carga horária:** 1 mês (30h)
 
-### Semana 1: Listas, Pilhas e Filas
+### Capítulo 1: Listas, Pilhas e Filas
 
-- **Seg:** Revisão de listas
-- **Ter:** Pilhas: conceito e implementação
-- **Qua:** Filas: conceito e uso
-- **Qui:** Simuladores: navegação de browser, fila de atendimento
-- **Sex:** Desafio: implementações manuais sem bibliotecas prontas
+- [ ] **Aula 1.1:** Revisão de listas
+- [ ] **Aula 1.2:** Pilhas: conceito e implementação
+- [ ] **Aula 1.3:** Filas: conceito e uso
+- [ ] **Aula 1.4:** Simuladores: navegação de browser, fila de atendimento
+- [ ] **Aula 1.5:** Desafio: implementações manuais sem bibliotecas prontas
 
-### Semana 2: Ordenações e Buscas
+### Capítulo 2: Ordenações e Buscas
 
-- **Seg:** Busca linear e binária
-- **Ter:** Ordenação por seleção
-- **Qua:** Ordenação por inserção e bubble sort
-- **Qui:** Comparação de desempenho
-- **Sex:** Aplicações práticas com vetores ordenados
+- [ ] **Aula 2.1:** Busca linear e binária
+- [ ] **Aula 2.2:** Ordenação por seleção
+- [ ] **Aula 2.3:** Ordenação por inserção e bubble sort
+- [ ] **Aula 2.4:** Comparação de desempenho
+- [ ] **Aula 2.5:** Aplicações práticas com vetores ordenados
 
-### Semana 3: Recursão e Tópicos Extras
+### Capítulo 3: Recursão e Tópicos Extras
 
-- **Seg:** Introdução à recursão
-- **Ter:** Fatorial, Fibonacci, torres de Hanói
-- **Qua:** Quando evitar recursão
-- **Qui:** Prática mista: recursão vs laço
-- **Sex:** Desafio final da semana
+- [ ] **Aula 3.1:** Introdução à recursão
+- [ ] **Aula 3.2:** Fatorial, Fibonacci, torres de Hanói
+- [ ] **Aula 3.3:** Quando evitar recursão
+- [ ] **Aula 3.4:** Prática mista: recursão vs laço
+- [ ] **Aula 3.5:** Desafio final da semana
 
-### Semana 4: Mini-projeto e revisão
+### Capítulo 4: Mini-projeto e revisão
 
-- **Seg:** Definição de escopo
-- **Ter:** Implementação de estrutura de dados personalizada
-- **Qua:** Testes e ajustes
-- **Qui:** Organização em módulos
-- **Sex:** Apresentação do projeto
+- [ ] **Aula 4.1:** Definição de escopo
+- [ ] **Aula 4.2:** Implementação de estrutura de dados personalizada
+- [ ] **Aula 4.3:** Testes e ajustes
+- [ ] **Aula 4.4:** Organização em módulos
+- [ ] **Aula 4.5:** Apresentação do projeto
 
 ---
 
-## 🧱 Fase 6: Banco de Dados Relacional (SQL)
+## 🧱 Etapa 6: Banco de Dados Relacional (SQL)
 
 **Carga horária:** 1 mês (30h)
 
-### Semana 1: Fundamentos de Banco de Dados
+### Capítulo 1: Fundamentos de Banco de Dados
 
-- **Seg:** O que é um banco de dados relacional
-- **Ter:** Tabelas, colunas, linhas, chaves
-- **Qua:** Introdução ao SQLite/PostgreSQL
-- **Qui:** Criando e populando tabelas
-- **Sex:** SELECTs simples com filtros (WHERE)
+- [ ] **Aula 1.1:** O que é um banco de dados relacional
+- [ ] **Aula 1.2:** Tabelas, colunas, linhas, chaves
+- [ ] **Aula 1.3:** Introdução ao SQLite/PostgreSQL
+- [ ] **Aula 1.4:** Criando e populando tabelas
+- [ ] **Aula 1.5:** SELECTs simples com filtros (WHERE)
 
-### Semana 2: Consultas e Relacionamentos
+### Capítulo 2: Consultas e Relacionamentos
 
-- **Seg:** ORDER BY, LIMIT
-- **Ter:** JOINs (INNER JOIN)
-- **Qua:** Agrupamentos: GROUP BY, COUNT, SUM
-- **Qui:** Subconsultas
-- **Sex:** Exercício com 2 ou mais tabelas relacionadas
+- [ ] **Aula 2.1:** ORDER BY, LIMIT
+- [ ] **Aula 2.2:** JOINs (INNER JOIN)
+- [ ] **Aula 2.3:** Agrupamentos: GROUP BY, COUNT, SUM
+- [ ] **Aula 2.4:** Subconsultas
+- [ ] **Aula 2.5:** Exercício com 2 ou mais tabelas relacionadas
 
-### Semana 3: CRUD Completo + Scripts
+### Capítulo 3: CRUD Completo + Scripts
 
-- **Seg:** INSERT, UPDATE, DELETE
-- **Ter:** Criação de scripts SQL reutilizáveis
-- **Qua:** Integrando com linguagem (Python/JS)
-- **Qui:** Mini API local com dados salvos
-- **Sex:** Projeto: cadastro e listagem de produtos ou usuários
+- [ ] **Aula 3.1:** INSERT, UPDATE, DELETE
+- [ ] **Aula 3.2:** Criação de scripts SQL reutilizáveis
+- [ ] **Aula 3.3:** Integrando com linguagem (Python/JS)
+- [ ] **Aula 3.4:** Mini API local com dados salvos
+- [ ] **Aula 3.5:** Projeto: cadastro e listagem de produtos ou usuários
 
-### Semana 4: Revisão e Boas Práticas
+### Capítulo 4: Revisão e Boas Práticas
 
-- **Seg:** Revisão dos comandos SQL principais
-- **Ter:** Normalização básica
-- **Qua:** Checklist de integridade
-- **Qui:** Backup e dump de dados
-- **Sex:** Apresentação do projeto e feedback
+- [ ] **Aula 4.1:** Revisão dos comandos SQL principais
+- [ ] **Aula 4.2:** Normalização básica
+- [ ] **Aula 4.3:** Checklist de integridade
+- [ ] **Aula 4.4:** Backup e dump de dados
+- [ ] **Aula 4.5:** Apresentação do projeto e feedback
 
 ---
 
-## ⚛️ Fase 7: Front-end com Framework (React ou Vue)
+## ⚛️ Etapa 7: Front-end com Framework (React ou Vue)
 
 **Carga horária:** 1,5 mês (45h)
 
-### Semana 1: Introdução e Componentização
+### Capítulo 1: Introdução e Componentização
 
-- **Seg:** Ambiente e estrutura de projeto
-- **Ter:** Criando componentes básicos
-- **Qua:** Props e composição
-- **Qui:** Eventos e interatividade
-- **Sex:** Projeto: contador interativo
+- [ ] **Aula 1.1:** Ambiente e estrutura de projeto
+- [ ] **Aula 1.2:** Criando componentes básicos
+- [ ] **Aula 1.3:** Props e composição
+- [ ] **Aula 1.4:** Eventos e interatividade
+- [ ] **Aula 1.5:** Projeto: contador interativo
 
-### Semana 2: Estado e Listagens
+### Capítulo 2: Estado e Listagens
 
-- **Seg:** useState / reactive
-- **Ter:** Renderização de listas
-- **Qua:** Condicional (if / ternário)
-- **Qui:** Formulários e inputs controlados
-- **Sex:** Projeto: lista de tarefas com filtro
+- [ ] **Aula 2.1:** useState / reactive
+- [ ] **Aula 2.2:** Renderização de listas
+- [ ] **Aula 2.3:** Condicional (if / ternário)
+- [ ] **Aula 2.4:** Formulários e inputs controlados
+- [ ] **Aula 2.5:** Projeto: lista de tarefas com filtro
 
-### Semana 3: Roteamento e Fetch
+### Capítulo 3: Roteamento e Fetch
 
-- **Seg:** React Router / Vue Router
-- **Ter:** Criar páginas com navegação
-- **Qua:** Fetch de dados via API
-- **Qui:** Loader e tratamento de erros
-- **Sex:** Projeto: catálogo de produtos (mock)
+- [ ] **Aula 3.1:** React Router / Vue Router
+- [ ] **Aula 3.2:** Criar páginas com navegação
+- [ ] **Aula 3.3:** Fetch de dados via API
+- [ ] **Aula 3.4:** Loader e tratamento de erros
+- [ ] **Aula 3.5:** Projeto: catálogo de produtos (mock)
 
-### Semana 4: Projeto Completo
+### Capítulo 4: Projeto Completo
 
-- **Seg:** Planejamento e wireframe
-- **Ter:** Criação de layout geral
-- **Qua:** Integração de componentes e API
-- **Qui:** Estilização final
-- **Sex:** Deploy no Vercel ou Netlify
+- [ ] **Aula 4.1:** Planejamento e wireframe
+- [ ] **Aula 4.2:** Criação de layout geral
+- [ ] **Aula 4.3:** Integração de componentes e API
+- [ ] **Aula 4.4:** Estilização final
+- [ ] **Aula 4.5:** Deploy no Vercel ou Netlify
 
-### Semana 5 (meia semana): Feedback e refatoração
+### Capítulo 5 (meia semana): Feedback e refatoração
 
-- **Seg:** Código limpo e boas práticas
-- **Ter:** Checklist de acessibilidade e responsividade
-- **Qua:** Revisão e publicação final
+- [ ] **Aula 5.1:** Código limpo e boas práticas
+- [ ] **Aula 5.2:** Checklist de acessibilidade e responsividade
+- [ ] **Aula 5.3:** Revisão e publicação final
 
 ---
 
-## 🔙 Fase 8: Backend com API REST (Node.js ou Python)
+## 🔙 Etapa 8: Backend com API REST (Node.js ou Python)
 
 **Carga horária:** 1 mês (30h)
 
-### Semana 1: Conceitos de API
+### Capítulo 1: Conceitos de API
 
-- **Seg:** O que é uma API REST
-- **Ter:** Rotas e métodos HTTP
-- **Qua:** Criação de rotas com Express ou Flask
-- **Qui:** Testando com Postman/Insomnia
-- **Sex:** Projeto: API de tarefas CRUD
+- [ ] **Aula 1.1:** O que é uma API REST
+- [ ] **Aula 1.2:** Rotas e métodos HTTP
+- [ ] **Aula 1.3:** Criação de rotas com Express ou Flask
+- [ ] **Aula 1.4:** Testando com Postman/Insomnia
+- [ ] **Aula 1.5:** Projeto: API de tarefas CRUD
 
-### Semana 2: Conexão com Banco de Dados
+### Capítulo 2: Conexão com Banco de Dados
 
-- **Seg:** Introdução ao ORM (Prisma ou SQLAlchemy)
-- **Ter:** CRUD com persistência real
-- **Qua:** Relacionamentos simples
-- **Qui:** Separação de camadas (routes, services)
-- **Sex:** Continuação do projeto
+- [ ] **Aula 2.1:** Introdução ao ORM (Prisma ou SQLAlchemy)
+- [ ] **Aula 2.2:** CRUD com persistência real
+- [ ] **Aula 2.3:** Relacionamentos simples
+- [ ] **Aula 2.4:** Separação de camadas (routes, services)
+- [ ] **Aula 2.5:** Continuação do projeto
 
-### Semana 3: Validação e Segurança Básica
+### Capítulo 3: Validação e Segurança Básica
 
-- **Seg:** Validação de entrada (Joi / Pydantic)
-- **Ter:** Middleware e tratamento de erros
-- **Qua:** Autenticação básica (JWT ou token manual)
-- **Qui:** Protegendo rotas
-- **Sex:** Finalização do projeto
+- [ ] **Aula 3.1:** Validação de entrada (Joi / Pydantic)
+- [ ] **Aula 3.2:** Middleware e tratamento de erros
+- [ ] **Aula 3.3:** Autenticação básica (JWT ou token manual)
+- [ ] **Aula 3.4:** Protegendo rotas
+- [ ] **Aula 3.5:** Finalização do projeto
 
-### Semana 4: Revisão e Preparação para Projeto Final
+### Capítulo 4: Revisão e Preparação para Projeto Final
 
-- **Seg:** Refatoração e organização
-- **Ter:** Checklist de API REST
-- **Qua:** Testes básicos (unitários ou manuais)
-- **Qui:** Documentação da API (Swagger/Postman)
-- **Sex:** Publicação local ou deploy
+- [ ] **Aula 4.1:** Refatoração e organização
+- [ ] **Aula 4.2:** Checklist de API REST
+- [ ] **Aula 4.3:** Testes básicos (unitários ou manuais)
+- [ ] **Aula 4.4:** Documentação da API (Swagger/Postman)
+- [ ] **Aula 4.5:** Publicação local ou deploy
 
 ---
 
-## 🚀 Fase 9: Projeto Final e Portfólio
+## 🚀 Etapa 9: Projeto Final e Portfólio
 
 **Carga horária:** 1–2 meses (30h–60h)
 
-### Semana 1–2: Escolha e Planejamento
+### Capítulo 1–2: Escolha e Planejamento
 
 - Escolha do tema (dashboard, blog, gerenciador, etc.)
 - Levantamento de funcionalidades e escopo
 - Wireframe com Figma ou papel
 - Definição de stack: front, back e banco
 
-### Semana 3–6: Desenvolvimento guiado
+### Capítulo 3–6: Desenvolvimento guiado
 
 - Desenvolvimento por sprints semanais
 - Code reviews com mentor
 - Organização do repositório
 - Deploy contínuo
 
-### Semana final: Apresentação e publicação
+### Capítulo final: Apresentação e publicação
 
 - Criação de README profissional
 - Vídeo demonstrando funcionalidades
@@ -331,7 +336,7 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 ## 📘 Resumo da trilha
 
-| Fase                           | Duração | Carga Horária |
+| Etapa                          | Duração | Carga Horária |
 | ------------------------------ | ------- | ------------- |
 | Fundamentos de Lógica          | 1 mês   | 30h           |
 | Programação com Linguagem Real | 1 mês   | 30h           |
