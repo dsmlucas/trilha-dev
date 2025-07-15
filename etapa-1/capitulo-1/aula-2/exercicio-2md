@@ -1,0 +1,23 @@
+```mermaid
+flowchart TD
+    inicio["Início"]
+    fim["Fim"]
+    a1["Pegar o píncel"]
+    a2{"Verificar se o computador está sujo"}
+    a3["Se estiver sujo, limpe"]
+    a4["Se não estiver sujo, pule a etapa"]
+    a5{"Verificar se o teclado está sujo"}
+    a6["Se estiver sujo, limpe"]
+    a7["Se não estiver sujo, pule a etapa"]
+
+    inicio --> a1
+    a1 --> a2
+    a2 --> a3
+    a2 --> a4
+    a3 --> a5
+    a4 --> a5
+    a5 --> a6
+    a5 --> a7
+    a6 --> fim
+    a7 --> fim
+```
