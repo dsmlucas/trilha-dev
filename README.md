@@ -27,7 +27,7 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 - [x] **Aula 2.1:** Condicionais: if, else, else if
 - [x] **Aula 2.2:** Exercícios com condicionais (idade, par/ímpar, nota)
-- [ ] **Aula 2.3:** Laços: while e for
+- [x] **Aula 2.3:** Laços: while e for
 - [ ] **Aula 2.4:** Exercícios com laços (tabuada, contagem)
 - [ ] **Aula 2.5:** Desafio prático: tabuada com entrada do usuário
 
