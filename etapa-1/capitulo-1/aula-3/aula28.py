@@ -1,4 +1,4 @@
-#Tomada de Decisões 2
+#Blocos de Instrução na prática
 
 num1= int(input("Digite um número: "))
 

@@ -1,4 +1,4 @@
-# Trilha Dev Iniciante
+#]]]] Trilha Dev Iniciante
 
 **Trilha de Estudos em Desenvolvimento de Software para Iniciantes (com Mentoria)**
 

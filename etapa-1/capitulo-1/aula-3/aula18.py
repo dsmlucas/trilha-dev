@@ -1,4 +1,4 @@
-#Potenciação e Radiciação#
+#Potenciação e Radiciação
 
 print(10*2)  #10*2 é igual a(10x10=100)
 print(100*3) #10*3 é igual a (10x10x10=1000)
