@@ -1,4 +1,4 @@
-#]]]] Trilha Dev Iniciante
+# Trilha Dev Iniciante
 
 **Trilha de Estudos em Desenvolvimento de Software para Iniciantes (com Mentoria)**
 
@@ -28,12 +28,12 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 - [x] **Aula 2.1:** Condicionais: if, else, else if
 - [x] **Aula 2.2:** Exercícios com condicionais (idade, par/ímpar, nota)
 - [x] **Aula 2.3:** Laços: while e for
-- [ ] **Aula 2.4:** Exercícios com laços (tabuada, contagem)
-- [ ] **Aula 2.5:** Desafio prático: tabuada com entrada do usuário
+- [x] **Aula 2.4:** Exercícios com laços (tabuada, contagem)
+- [x] **Aula 2.5:** Desafio prático: tabuada com entrada do usuário
 
 ### Capítulo 3: Vetores, Matrizes e Funções
 
-- [ ] **Aula 3.1:** Vetores (arrays) - criação e acesso
+- [x] **Aula 3.1:** Vetores (arrays) - criação e acesso
 - [ ] **Aula 3.2:** Matrizes (arrays 2D) - introdução
 - [ ] **Aula 3.3:** Funções - criação, chamada e parâmetros
 - [ ] **Aula 3.4:** Exercícios com vetores e funções combinadas
