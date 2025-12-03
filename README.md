@@ -1,6 +1,6 @@
 # Trilha Dev Iniciante
 
-**Trilha de Estudos em Desenvolvimento de Software para Iniciantes (com Mentoria)**
+**Trilha de Estudos em Desenvolvimento de Software para Iniciantes (com Mentoria):**
 
 Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
