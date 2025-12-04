@@ -34,7 +34,7 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 ### Capítulo 3: Vetores, Matrizes e Funções
 
 - [x] **Aula 3.1:** Vetores (arrays) - criação e acesso
-- [ ] **Aula 3.2:** Matrizes (arrays 2D) - introdução
+- [x] **Aula 3.2:** Matrizes (arrays 2D) - introdução
 - [ ] **Aula 3.3:** Funções - criação, chamada e parâmetros
 - [ ] **Aula 3.4:** Exercícios com vetores e funções combinadas
 - [ ] **Aula 3.5:** Desafio: calculadora com operações em funções
