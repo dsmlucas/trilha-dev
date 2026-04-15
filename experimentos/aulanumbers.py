@@ -17,8 +17,8 @@ if número == 6:
 if número == 7:
     print("7 é Impar")
 if número == 8:
-    print("6 é Par")
-if número == 9:
+    print("8 é Par")
+if número == 8:
     print("9 é ÍMPAR")
 if número == 10:
     print("10 é PAR")

@@ -35,7 +35,7 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 
 - [x] **Aula 3.1:** Vetores (arrays) - criação e acesso
 - [x] **Aula 3.2:** Matrizes (arrays 2D) - introdução
-- [ ] **Aula 3.3:** Funções - criação, chamada e parâmetros
+- [x] **Aula 3.3:** Funções - criação, chamada e parâmetros
 - [ ] **Aula 3.4:** Exercícios com vetores e funções combinadas
 - [ ] **Aula 3.5:** Desafio: calculadora com operações em funções
 
@@ -83,7 +83,7 @@ Carga horária: 1h30 por dia, de segunda a sexta (7h30/semana, \~30h/mês)
 - [ ] **Aula 4.2:** Organização do projeto em arquivos
 - [ ] **Aula 4.3:** Testes manuais e correções
 - [ ] **Aula 4.4:** Introdução ao Git local
-- [ ] **Aula 4.5:** Revisão geral + checkpoint
+- [ ] **Aula 4.5:** Revisão geral + checkpoint 
 
 ---
 
